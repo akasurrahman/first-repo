@@ -1,0 +1,23 @@
+body{background: url(donation.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;}
+    h1.first {text-align: center;
+    ;}
+    h1.second {text-align: center;
+    }
+    p.third{text-align: center;}
+    p.four{text-align: center;}
+
+   .button .dog {
+        padding: 15px 32px;
+        color: white;
+        background-color: #ff5e00f9;
+        border :none;
+        display: inline;
+        text-decoration: none;
+        border-radius: 4px;
+        
+        }
+        
+    .button{display: flex;
+        justify-content: center;}
